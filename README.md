@@ -24,3 +24,5 @@
 - User-Friendly UI
     
 <img src="https://media.discordapp.net/attachments/794225900791136286/1054136125821833278/image.png" />
+<img src="https://cdn.discordapp.com/attachments/821039390775705612/1054144452727406672/image.png" />
+<img src="https://cdn.discordapp.com/attachments/821039390775705612/1054144484692197396/image.png" />
