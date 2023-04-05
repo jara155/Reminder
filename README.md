@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/794225900791136286/1007353342504218724/jajatils.png" width="200"/> 
+  <img src="https://cdn.discordapp.com/attachments/794225900791136286/1093293280772493393/reminder.png" width="200"/> 
   <p align="center">
     <h3 align="center">Reminder</h3>
   </p>
